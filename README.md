@@ -1,5 +1,7 @@
 # Northwind with Spring Boot
 
+## I messed up, it doesn't work yet!
+
 ### Introduction:
 This project is based on Northwind sample database available in MSSQL. 
 One man put an effort into recreating it in MySQL (kudos!). It is available [here](https://github.com/dalers/mywind).
