@@ -20,7 +20,7 @@ import javax.sql.DataSource;
  */
 @Configuration
 @EnableAutoConfiguration
-@EnableJpaRepositories("com.trojanus.northwind.repository")
+@EnableJpaRepositories("com.trojanus.northwind.repositories")
 public class AppConfig {
 
     @Bean

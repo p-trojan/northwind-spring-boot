@@ -1,4 +1,4 @@
-package com.trojanus.northwind.repository;
+package com.trojanus.northwind.repositories;
 
 import com.trojanus.northwind.model.Suppliers;
 import org.springframework.data.repository.CrudRepository;
